@@ -1,7 +1,10 @@
 
 # Entendendo o Curso de Git e GitHub para Versionamento
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7bf16ddc-adc8-43c6-b243-c9ba88e48f77" alt="GitHub pet Bruno" width="350"/>
+</p>
 
-Me chamo [**Bruno**](https://www.linkedin.com/in/bruno-de-fran%C3%A7a-6987ab356/) e esse repositório foi criado com o objetivo de armazenar conteúdos e testes do curso de versionamento de Código com Git e GitHub da [DIO](https://www.dio.me/) para futuras consultas e estudos sobre códigos no Git Bash e para auxiliar futuros estudantes. 
+Me chamo [**Bruno**](https://www.linkedin.com/in/bruno-de-fran%C3%A7a-6987ab356/) e esse repositório foi criado com o objetivo de armazenar conteúdos e testes do curso de versionamento de Código com Git e GitHub da [DIO](https://www.dio.me/) para futuras consultas e estudos sobre códigos no Git Bash e para auxiliar futuros estudantes.
 
 ### Links Úteis
 [Curso da DIO](https://web.dio.me/track/ri-happy-front-end-do-zero)  
